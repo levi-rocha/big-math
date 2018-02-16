@@ -1,0 +1,19 @@
+{
+    "name": "big-math",
+    "version": "1.0.0",
+    "description": "Math operations with numbers as strings.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "big-math"
+    },
+    "keywords": [
+        "math",
+        "string"
+    ],
+    "author": "Levi Rocha <ilevidr@gmail.com> (https://pino.github.io)",
+    "license": "ISC"
+}
